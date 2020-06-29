@@ -11,8 +11,8 @@ if __name__ == '__main__':
     
     host      = "192.168.1.168"
     port      = 5672
-    user      = "pi"
-    password  = "wine4ever"
+    user      = ""
+    password  = ""
     queueName = "xaviqueue"
 
     #init sender 
